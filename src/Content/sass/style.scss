@@ -1,0 +1,17 @@
+@import "bootstrap";
+@import "utilities"; //pull only what's needed from bootstrap utilities
+//@import 'slick-theme';
+@import "fonts";
+@import "icons";
+
+@import "vars";
+
+@import "html";
+@import "typography";
+@import "buttons";
+
+@import "theme";
+
+@import "header";
+@import "footer";
+//@import 'components/navbar';

@@ -1,0 +1,33 @@
+[{
+    "userId":"10001",
+    "jobTitleName":"Front End Developer",
+    "firstName":"James",
+    "lastName":"Smith",
+    "preferredFullName":"James Smith",
+    "employeeCode":"E1",
+    "region":"CA",
+    "phoneNumber":"408-1234567",
+    "emailAddress":"jsmith@gmail.com"
+    },
+    {
+    "userId":"10002",
+    "jobTitleName":"Back End Developer",
+    "firstName":"Neil",
+    "lastName":"Watson",
+    "preferredFullName":"Neil Watson",
+    "employeeCode":"E2",
+    "region":"CA",
+    "phoneNumber":"408-1111111",
+    "emailAddress":"nwatson@gmail.com"
+    },
+    {
+    "userId":"10003",
+    "jobTitleName":"Program Directory",
+    "firstName":"Tom",
+    "lastName":"Hanks",
+    "preferredFullName":"Tom Hanks",
+    "employeeCode":"E3",
+    "region":"CA",
+    "phoneNumber":"408-2222222",
+    "emailAddress":"tomhanks@gmail.com"
+    }]
